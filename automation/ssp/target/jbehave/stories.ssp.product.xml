@@ -1,0 +1,8 @@
+<story path="stories/ssp/product.story" title="">
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="As a">user</inOrderTo>
+  <asA keyword="I want to">perform an action</asA>
+  <iWantTo keyword="So that">I can achieve a business goal</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="IDP-1 Verify that product can be connected to order">
+<step outcome="successful">Given SSP-WS-User creates an order</step>

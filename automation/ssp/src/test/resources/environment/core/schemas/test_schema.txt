@@ -1,0 +1,10 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:kezzler:ssp:kcengine:ws:XmlDefaultMetadataSchemaResponse",
+  "properties" : {
+    "schema" : {
+      "type" : "object",
+      "$ref" : "urn:jsonschema:com:kezzler:ssp:kcengine:ws:XmlMetadataSchemaDescription"
+    }
+  }
+}

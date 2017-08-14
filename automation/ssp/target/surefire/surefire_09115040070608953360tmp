@@ -1,0 +1,9 @@
+#surefire_0
+#Thu Mar 02 00:31:47 EET 2017
+user.dir=/Users/romanlapii/IdeaProjects/kezzler/ssp
+webdriver.driver=chrome
+env=core
+project.stories=regression
+idea.version=2016.3
+localRepository=/Users/romanlapii/.m2/repository
+basedir=/Users/romanlapii/IdeaProjects/kezzler/ssp

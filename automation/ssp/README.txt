@@ -1,0 +1,2 @@
+Execute using maven: clean dependency:analyze compile -Denv=core integration-test serenity:aggregate -U -Dwebdriver.driver=chrome -Dproject.stories=regression
+project.stories accepts either suite name (suiteName) and story name (storyName.txt)

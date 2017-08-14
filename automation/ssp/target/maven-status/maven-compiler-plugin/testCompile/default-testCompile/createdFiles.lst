@@ -1,0 +1,6 @@
+net/kezzler/ssp/definitionsteps/ssp/ProductsDefinitionSteps.class
+net/kezzler/ssp/definitionsteps/ssp/LogInDefinitionSteps.class
+net/kezzler/ssp/definitionsteps/ssp/OrdersDefinitionSteps.class
+net/kezzler/ssp/AcceptanceTestSuite.class
+net/kezzler/ssp/AcceptanceTestSuite$1.class
+net/kezzler/ssp/definitionsteps/ssp/MetadataSchemasDefinitionSteps.class
